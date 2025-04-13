@@ -1045,7 +1045,10 @@
     "criteria": {
       "cooked_porkchop": "2025-04-13 02:47:54 +0000",
       "cooked_mutton": "2025-04-13 03:16:15 +0000",
+      "potato": "2025-04-13 04:05:55 +0000",
       "cooked_cod": "2025-04-13 03:59:58 +0000",
+      "suspicious_stew": "2025-04-13 04:06:03 +0000",
+      "cooked_chicken": "2025-04-13 04:08:24 +0000",
       "rabbit_stew": "2025-04-13 02:52:40 +0000"
     },
     "done": false
@@ -1276,7 +1279,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-13 04:03:15 +0000",
       "minecraft:forest": "2025-04-13 03:03:29 +0000",
+      "minecraft:frozen_ocean": "2025-04-13 04:05:16 +0000",
       "minecraft:deep_dark": "2025-04-13 03:12:38 +0000",
       "minecraft:plains": "2025-04-13 03:13:34 +0000"
     },
@@ -1342,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-13 04:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-04-13 04:01:14 +0000"
@@ -1357,6 +1368,12 @@
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-13 03:24:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-04-13 04:06:11 +0000"
     },
     "done": true
   },
@@ -1522,6 +1539,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-13 04:02:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-13 04:08:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-13 03:24:03 +0000"
@@ -1555,6 +1584,18 @@
   "framedblocks:recipes/building_blocks/framed_soul_torch": {
     "criteria": {
       "hasFramedCube": "2025-04-13 03:49:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-13 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-13 04:06:05 +0000"
     },
     "done": true
   },
@@ -1597,6 +1638,12 @@
   "biomesoplenty:recipes/redstone/maple_door": {
     "criteria": {
       "has_planks": "2025-04-13 03:23:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-13 04:08:17 +0000"
     },
     "done": true
   },
@@ -1807,6 +1854,12 @@
   "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-13 03:59:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-13 04:05:51 +0000"
     },
     "done": true
   },
@@ -2176,6 +2229,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-13 04:09:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-13 03:37:59 +0000"
@@ -2203,6 +2262,12 @@
   "securitycraft:recipes/misc/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-04-13 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-04-13 04:05:09 +0000"
     },
     "done": true
   },
@@ -2476,6 +2541,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-04-13 04:02:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_cooler": {
     "criteria": {
       "has_chest": "2025-04-13 03:24:03 +0000"
@@ -2680,6 +2751,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-04-13 04:05:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-13 03:59:00 +0000"
@@ -2740,6 +2817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-13 04:06:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-13 03:24:03 +0000"
@@ -2767,6 +2850,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-13 03:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-13 04:02:26 +0000"
     },
     "done": true
   },
@@ -2803,6 +2892,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-13 03:31:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-04-13 04:08:17 +0000"
     },
     "done": true
   },
@@ -2944,6 +3039,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-13 04:08:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-04-13 03:46:44 +0000"
@@ -2959,6 +3060,12 @@
   "pfm:recipes/furniture/yellow_arm_chair": {
     "criteria": {
       "has_wool": "2025-04-13 03:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-13 04:08:17 +0000"
     },
     "done": true
   },
@@ -3073,6 +3180,12 @@
   "cfm:recipes/decorations/stripped_oak_table": {
     "criteria": {
       "has_planks": "2025-04-13 03:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-13 04:05:51 +0000"
     },
     "done": true
   },
@@ -3232,6 +3345,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-13 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-13 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 03:41:19 +0000"
@@ -3265,6 +3390,12 @@
   "cfm:recipes/decorations/pink_trampoline": {
     "criteria": {
       "has_iron": "2025-04-13 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-13 04:05:51 +0000"
     },
     "done": true
   },
@@ -3526,6 +3657,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-04-13 04:02:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 03:41:19 +0000"
@@ -3661,6 +3798,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-13 03:20:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-13 04:08:17 +0000"
     },
     "done": true
   },
@@ -3970,6 +4113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-13 04:05:51 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_wall": {
     "criteria": {
       "hasFramedCube": "2025-04-13 03:49:56 +0000"
@@ -3997,6 +4146,12 @@
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-13 03:24:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-04-13 04:05:09 +0000"
     },
     "done": true
   },
@@ -4126,6 +4281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-13 04:04:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-04-13 03:24:03 +0000"
@@ -4222,6 +4383,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-13 04:08:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/magenta_arm_chair": {
     "criteria": {
       "has_wool": "2025-04-13 03:46:40 +0000"
@@ -4267,6 +4434,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-13 03:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-13 04:06:11 +0000"
     },
     "done": true
   },
@@ -4387,6 +4560,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-13 04:00:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-13 04:08:17 +0000"
     },
     "done": true
   },
