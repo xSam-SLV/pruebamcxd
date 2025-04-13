@@ -43,7 +43,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -187,7 +187,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -433,7 +433,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -583,7 +583,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -775,7 +775,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -799,7 +799,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -985,7 +985,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -1075,7 +1075,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -1129,8 +1129,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-04-13 03:16:43 +0000",
       "jade_cliffs": "2025-04-13 02:45:48 +0000",
       "mystic_grove": "2025-04-13 02:43:44 +0000",
+      "maple_woods": "2025-04-13 03:18:17 +0000",
       "field": "2025-04-13 02:46:59 +0000",
       "moor": "2025-04-13 02:41:22 +0000",
       "overgrown_greens": "2025-04-13 02:39:10 +0000",
@@ -1182,7 +1184,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -1212,7 +1214,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -1266,7 +1268,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -1338,7 +1340,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+      "log_spam_fixer": "2025-04-13 03:21:20 +0000"
     },
     "done": false
   },
@@ -1633,6 +1635,12 @@
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_blue_hydrangea": "2025-04-13 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-13 03:16:49 +0000"
     },
     "done": true
   },
