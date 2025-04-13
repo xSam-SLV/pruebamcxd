@@ -12977,3 +12977,48 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [13Apr2025 04:26:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was slain by Cyclops
 [13Apr2025 04:26:48.015] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
 [13Apr2025 04:26:48.150] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518408111
+[13Apr2025 04:27:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> distraelo
+[13Apr2025 04:27:57.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 04:27:57.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 04:27:59.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 was slain by Cyclops
+[13Apr2025 04:28:02.515] [Server thread/DEBUG] [twilightforest/]: Player Jony_SV503 (716cfdb1-8632-3e97-910c-e3d2f5e4311a) respawned and received items held in storage
+[13Apr2025 04:28:02.614] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518482601
+[13Apr2025 04:28:07.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was slain by Cyclops
+[13Apr2025 04:28:08.328] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
+[13Apr2025 04:28:08.434] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518488426
+[13Apr2025 04:28:15.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Creative Mode]
+[13Apr2025 04:28:39.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Survival Mode]
+[13Apr2025 04:28:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jony_SV503: Set own game mode to Creative Mode]
+[13Apr2025 04:28:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ta bueno los mods va?
+[13Apr2025 04:29:10.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Not Today, Thank You]
+[13Apr2025 04:29:37.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [My Name is Nobody]
+[13Apr2025 04:29:49.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jony_SV503: Set own game mode to Survival Mode]
+[13Apr2025 04:30:04.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ya estuvo xd
+[13Apr2025 04:30:19.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> khe dió
+[13Apr2025 04:30:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> solo da cuero y carne
+[13Apr2025 04:30:35.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> xD
+[13Apr2025 04:30:44.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ire a hacer las mochis
+[13Apr2025 04:30:51.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Spectator Mode]
+[13Apr2025 04:31:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Survival Mode]
+[13Apr2025 04:31:17.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was incinerated by Fire Dragon
+[13Apr2025 04:31:18.925] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
+[13Apr2025 04:31:18.954] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518678941
+[13Apr2025 04:31:27.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> no me acordaba que seguia vivo xd
+[13Apr2025 04:31:49.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> we dale con el arco al draco
+[13Apr2025 04:32:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was turned into KFC by Fire Dragon
+[13Apr2025 04:32:35.280] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
+[13Apr2025 04:32:35.346] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518755345
+[13Apr2025 04:32:37.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Creative Mode]
+[13Apr2025 04:32:53.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Survival Mode]
+[13Apr2025 04:32:57.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 04:32:57.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 04:33:43.809] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2353, y=-3, z=1349}
+[13Apr2025 04:34:08.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> casi 1k de pepitas de oro en el nido del draco
+[13Apr2025 04:34:21.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Teleported xSamSLV_ to Jony_SV503]
+[13Apr2025 04:36:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> xD
+[13Apr2025 04:36:31.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> Hagamola k¿bloques we damelas
+[13Apr2025 04:36:42.786] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/tiviacz/travelersbackpack/inventory/BackpackWrapper$2 (target of net/minecraftforge/items/IItemHandler)
+[13Apr2025 04:36:42.787] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/tiviacz/travelersbackpack/inventory/BackpackWrapper$1 (target of net/minecraftforge/items/IItemHandler)
+[13Apr2025 04:36:44.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> necesitamos mas cuero
+[13Apr2025 04:36:52.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> cuero directamente o carne podrida pa cocinar
+[13Apr2025 04:36:56.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> vamo a farmiar
