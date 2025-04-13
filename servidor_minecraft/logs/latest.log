@@ -1711,3 +1711,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [13Apr2025 03:45:35.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ahi te queda armadura we
 [13Apr2025 03:45:49.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> graziah
 [13Apr2025 03:46:32.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Suit Up]
+[13Apr2025 03:46:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Flabbergasted!]
+[13Apr2025 03:46:44.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Diamonds!]
+[13Apr2025 03:47:03.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> we por cierto, algunos arboles el tronco de arriba pueden haber cofres xd
+[13Apr2025 03:47:12.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> xD va
+[13Apr2025 03:48:49.026] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2163, y=14, z=1668}
+[13Apr2025 03:49:15.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Apr2025 03:49:35.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Apr2025 03:49:47.844] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[13Apr2025 03:49:54.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13Apr2025 03:50:23.454] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2173, y=-9, z=1702}
+[13Apr2025 03:50:23.752] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1796, y=6, z=1738}
+[13Apr2025 03:51:03.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> TAS VIEN?
+[13Apr2025 03:51:10.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> zy estaba buscando un crafteo xd
+[13Apr2025 03:51:14.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> mira escalera de tierra
+[13Apr2025 03:51:17.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> XD}
+[13Apr2025 03:51:33.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> xD
+[13Apr2025 03:51:44.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> con este material le puedes poner de TODO BLOQUE
+[13Apr2025 03:51:55.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> asu
+[13Apr2025 03:53:54.156] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1887, y=-44, z=1096}
+[13Apr2025 03:53:54.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> WE HAY UN POZO CON AGUA INFINITA
+[13Apr2025 03:53:54.358] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2186, y=10, z=1091}
+[13Apr2025 03:53:59.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> onde
+[13Apr2025 03:54:05.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> AKI
+[13Apr2025 03:54:12.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> perame ya llego
+[13Apr2025 03:54:26.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> Y Hay un demonio de tasmiania
+[13Apr2025 03:54:39.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Alex's Mobs]
+[13Apr2025 03:54:50.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Teleported xSamSLV_ to Jony_SV503]
+[13Apr2025 03:54:57.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [The Parrots and the Bats]
+[13Apr2025 03:55:01.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> deja busco si es bueno xd
+[13Apr2025 03:55:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> no acuerdo
+[13Apr2025 03:55:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> con carne podrida ahuyenta a los mobs parece xd
+[13Apr2025 03:56:01.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> no se domestican, pero se crian con cualquier carne
+[13Apr2025 03:56:23.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> este es el pozo en cuestion
+[13Apr2025 03:56:32.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> solo esto era xd?
+[13Apr2025 03:56:36.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> no habia nada?
