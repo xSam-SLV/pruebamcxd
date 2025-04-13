@@ -12627,3 +12627,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [13Apr2025 03:36:06.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> dame tp
 [13Apr2025 03:36:08.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> esos si te dan buen filete, pero son agresivos JAJAJ XD
 [13Apr2025 03:36:11.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Teleported Jony_SV503 to xSamSLV_]
+[13Apr2025 03:36:38.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 03:36:38.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 03:38:31.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Sweet Dreams]
+[13Apr2025 03:38:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Sweet Dreams]
+[13Apr2025 03:39:32.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> we
+[13Apr2025 03:39:36.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ke
+[13Apr2025 03:39:41.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> lo que me diste no sirve xD
+[13Apr2025 03:39:48.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> Dice 0%
+[13Apr2025 03:39:51.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> mira abajo la barra si ya esta vacia
+[13Apr2025 03:39:53.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> a pos zy
+[13Apr2025 03:40:01.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> se le tiene que dar cuarzo parece que es xd
+[13Apr2025 03:40:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> para que vuelva a furular
+[13Apr2025 03:40:14.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> mira atras tuyo
+[13Apr2025 03:40:36.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> xD
+[13Apr2025 03:40:57.209] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2184, y=-41, z=1268}
+[13Apr2025 03:41:10.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[13Apr2025 03:41:15.862] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1764, y=-15, z=1162}
+[13Apr2025 03:41:19.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Acquire Hardware]
+[13Apr2025 03:41:40.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 03:41:40.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 03:41:58.827] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1732, y=25, z=1158}
+[13Apr2025 03:41:58.828] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1716, y=-25, z=1155}
+[13Apr2025 03:42:28.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Suit Up]
+[13Apr2025 03:42:40.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Crops of the Wild]
+[13Apr2025 03:43:23.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Isn't It Iron Pick]
+[13Apr2025 03:44:14.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> mira
+[13Apr2025 03:44:23.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> q
+[13Apr2025 03:44:41.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> como haces para que cuando crafteas no se te vayan todos los materiales de lo mismo que estas usando?
+[13Apr2025 03:44:52.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ahh
+[13Apr2025 03:45:01.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> a la par de las casillas hay un check verde
+[13Apr2025 03:45:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> le das click ahi y ya
+[13Apr2025 03:45:09.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> xD
+[13Apr2025 03:45:10.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> a eso te refieres?
+[13Apr2025 03:45:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> intenta de nuevo xd
+[13Apr2025 03:45:25.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> ya xD
+[13Apr2025 03:45:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> a va xd
+[13Apr2025 03:45:35.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ahi te queda armadura we
+[13Apr2025 03:45:49.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> graziah
+[13Apr2025 03:46:32.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Suit Up]

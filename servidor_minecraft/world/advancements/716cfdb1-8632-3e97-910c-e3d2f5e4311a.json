@@ -47,12 +47,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-13 03:11:13 +0000"
@@ -191,6 +185,12 @@
     },
     "done": true
   },
+  "inventorypets:blaze": {
+    "criteria": {
+      "crafting_table": "2025-04-13 03:34:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-04-13 02:55:54 +0000"
@@ -232,12 +232,6 @@
       "has_wool": "2025-04-13 02:43:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
@@ -323,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-13 03:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-13 02:47:17 +0000"
@@ -337,6 +337,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:enderman": "2025-04-13 03:40:28 +0000",
       "minecraft:zombie": "2025-04-13 02:50:41 +0000"
     },
     "done": false
@@ -533,6 +534,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-04-13 03:35:15 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/red_arm_chair": {
     "criteria": {
       "has_wool": "2025-04-13 02:43:47 +0000"
@@ -580,12 +587,6 @@
       "requirement": "2025-04-13 02:39:09 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
@@ -698,6 +699,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-13 03:22:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-13 03:32:28 +0000"
     },
     "done": true
   },
@@ -868,12 +875,6 @@
       "has_gold_ingot": "2025-04-13 02:54:05 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
@@ -1097,6 +1098,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-13 03:32:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-13 02:48:05 +0000"
@@ -1127,12 +1134,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-13 02:47:17 +0000"
@@ -1150,12 +1151,6 @@
       "has_diamonds": "2025-04-13 02:53:57 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
   },
   "pfm:recipes/furniture/kitchen_stovetop": {
     "criteria": {
@@ -1409,12 +1404,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-13 03:31:35 +0000"
@@ -1454,6 +1443,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-13 02:47:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-13 03:41:26 +0000"
     },
     "done": true
   },
@@ -1577,12 +1572,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-04-13 03:31:14 +0000"
@@ -1655,6 +1644,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-13 03:41:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-04-13 03:16:43 +0000",
@@ -1717,12 +1712,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
-  },
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-04-13 02:55:54 +0000"
@@ -1741,6 +1730,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-04-13 03:41:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-13 02:44:18 +0000"
@@ -1752,12 +1747,6 @@
       "consumed_item": "2025-04-13 02:48:10 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
@@ -1812,12 +1801,6 @@
       "has_planks": "2025-04-13 02:43:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
@@ -1933,12 +1916,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 03:31:36 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/black_simple_sofa": {
     "criteria": {
       "has_wool": "2025-04-13 02:43:47 +0000"
@@ -2008,6 +1985,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-04-13 02:55:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-13 03:40:30 +0000"
     },
     "done": true
   },
@@ -2179,11 +2162,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-13 03:32:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-04-13 02:50:41 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-04-13 03:41:05 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
@@ -2241,7 +2236,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-04-13 02:48:10 +0000"
+      "cooked_porkchop": "2025-04-13 02:48:10 +0000",
+      "cooked_mutton": "2025-04-13 03:32:32 +0000"
     },
     "done": false
   },
