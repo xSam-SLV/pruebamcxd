@@ -1,0 +1,1076 @@
+{
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-13 02:48:10 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2025-04-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:blaze": {
+    "criteria": {
+      "crafting_table": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinmessage": {
+    "criteria": {
+      "firstjoinmessage_0": "2025-04-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-04-13 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-13 02:50:11 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-04-13 02:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-13 02:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-13 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-13 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-04-13 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "overgrown_greens": "2025-04-13 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2025-04-13 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-13 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-04-13 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-13 02:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-13 02:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-13 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 02:33:20 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-04-13 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-04-13 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-04-13 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-04-13 02:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-13 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "jade_cliffs": "2025-04-13 02:45:26 +0000",
+      "mystic_grove": "2025-04-13 02:43:32 +0000",
+      "field": "2025-04-13 02:46:53 +0000",
+      "moor": "2025-04-13 02:37:13 +0000",
+      "overgrown_greens": "2025-04-13 02:33:20 +0000",
+      "crag": "2025-04-13 02:47:04 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-13 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-13 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-04-13 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-13 02:47:54 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-13 02:46:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-13 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 02:33:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 02:33:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-13 02:48:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-13 02:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-13 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-04-13 02:33:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 02:33:20 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-04-13 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-13 02:47:54 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-13 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_log": "2025-04-13 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

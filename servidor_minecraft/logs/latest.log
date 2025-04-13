@@ -1248,3 +1248,146 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [13Apr2025 02:33:12.243] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [13Apr2025 02:33:12.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xSamSLV_[/127.67.216.19:45917] logged in with entity id 750 at (-5.5, 180.0, -8.5)
 [13Apr2025 02:33:12.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ joined the game
+[13Apr2025 02:33:18.094] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[13Apr2025 02:33:18.101] [Server thread/INFO] [Jade/]: Syncing config to xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca)
+[13Apr2025 02:33:18.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5936ms or 118 ticks behind
+[13Apr2025 02:33:18.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Ice and Fire]
+[13Apr2025 02:33:54.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-184, y=-17, z=135}
+[13Apr2025 02:33:58.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25340ms or 506 ticks behind
+[13Apr2025 02:34:29.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16133ms or 322 ticks behind
+[13Apr2025 02:34:31.455] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-182, y=-1, z=-74}
+[13Apr2025 02:34:51.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7116ms or 142 ticks behind
+[13Apr2025 02:35:12.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5917ms or 118 ticks behind
+[13Apr2025 02:35:22.853] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=191, y=2, z=-200}
+[13Apr2025 02:35:24.959] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=220, y=-31, z=-158}
+[13Apr2025 02:35:25.054] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=213, y=7, z=68}
+[13Apr2025 02:36:44.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made xSamSLV_ a server operator
+[13Apr2025 02:36:45.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Creative Mode]
+[13Apr2025 02:36:47.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Survival Mode]
+[13Apr2025 02:36:50.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Creative Mode]
+[13Apr2025 02:37:29.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [First Steps]
+[13Apr2025 02:37:29.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Friendly Fire]
+[13Apr2025 02:37:30.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-8, y=-8, z=223}
+[13Apr2025 02:37:42.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Hottie'/1743, l='ServerLevel[world]', x=41.71, y=180.21, z=10.28] died: Hottie was killed
+[13Apr2025 02:37:42.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Killed Hottie]
+[13Apr2025 02:37:52.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set the time to 1000]
+[13Apr2025 02:39:09.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jony_SV503[/127.33.0.41:59917] logged in with entity id 2133 at (-5.5, 180.0, -8.5)
+[13Apr2025 02:39:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 joined the game
+[13Apr2025 02:39:09.802] [Server thread/INFO] [Jade/]: Syncing config to Jony_SV503 (716cfdb1-8632-3e97-910c-e3d2f5e4311a)
+[13Apr2025 02:39:09.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Ice and Fire]
+[13Apr2025 02:39:11.231] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Jony_SV503: protocol version: 2.0
+[13Apr2025 02:39:11.251] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[13Apr2025 02:39:11.255] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[13Apr2025 02:39:12.730] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-208, y=23, z=96}
+[13Apr2025 02:39:35.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> WE??
+[13Apr2025 02:39:43.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ke
+[13Apr2025 02:39:50.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Survival Mode]
+[13Apr2025 02:39:59.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ponete el op
+[13Apr2025 02:40:00.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> PATE
+[13Apr2025 02:40:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> desde el code
+[13Apr2025 02:40:03.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> como te dije
+[13Apr2025 02:40:05.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> A ejo voy
+[13Apr2025 02:40:29.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Jony_SV503 a server operator
+[13Apr2025 02:41:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> mira proba tu suerte xD
+[13Apr2025 02:41:25.322] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=240, y=16, z=9}
+[13Apr2025 02:41:32.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ah y una dungeon alla xD
+[13Apr2025 02:41:41.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> dale xD
+[13Apr2025 02:41:41.547] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=structure,ID=cage,pos=#pPos,rotation=#pDirect;type=fill,ID=air,size=(1,70,1),pos=#pPos;type=fill,ID=anvil,size=(1,2,1),pos=(#pPosX,#pPosY+70,#pPosZ))@luck=-2
+[13Apr2025 02:41:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 was squashed by a falling anvil
+[13Apr2025 02:41:47.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> JAJAJA
+[13Apr2025 02:41:53.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=280, y=-38, z=85}
+[13Apr2025 02:41:54.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> PERO LO QUERIAS TRYHARD VA?
+[13Apr2025 02:42:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Teleported Jony_SV503 to xSamSLV_]
+[13Apr2025 02:42:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> ODIO este mod
+[13Apr2025 02:42:06.328] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=216, y=-26, z=244}
+[13Apr2025 02:42:08.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> we a veces te da cosas re chetas
+[13Apr2025 02:42:19.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> guardare la ubicacion de esta dungeon
+[13Apr2025 02:42:25.534] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=296, y=-29, z=124}
+[13Apr2025 02:42:52.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> ya
+[13Apr2025 02:43:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> no vayas te vas a morir ombe
+[13Apr2025 02:43:14.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> hay esqueletos invisibles pero con armadura xd
+[13Apr2025 02:43:26.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> las hierbas altas aca te hacen caminar mas lento
+[13Apr2025 02:43:37.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> acy veo
+[13Apr2025 02:44:20.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Stone Age]
+[13Apr2025 02:44:39.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Getting an Upgrade]
+[13Apr2025 02:44:47.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> Almenos el yunke me lo dieron xD
+[13Apr2025 02:44:50.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=329, y=34, z=98}
+[13Apr2025 02:44:51.478] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=333, y=12, z=-87}
+[13Apr2025 02:44:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ah si va y tres eran xd
+[13Apr2025 02:45:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> xD
+[13Apr2025 02:45:10.425] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=308, y=-20, z=230}
+[13Apr2025 02:46:13.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> aca hay minerales en la montaña vamos
+[13Apr2025 02:46:21.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> crei que encontre algo
+[13Apr2025 02:46:25.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> el q?
+[13Apr2025 02:46:37.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> se oyen rujidos
+[13Apr2025 02:46:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> no te vayan a matar por la espalda
+[13Apr2025 02:47:03.970] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=192, y=-34, z=-228}
+[13Apr2025 02:47:05.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=54, y=-22, z=-236}
+[13Apr2025 02:47:07.911] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=394, y=22, z=-106}
+[13Apr2025 02:47:17.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Stone Age]
+[13Apr2025 02:47:33.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Getting an Upgrade]
+[13Apr2025 02:47:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> aqui las mesas de crafteo si solo la puede ocupar 1 si la usa otro por si acaso xD
+[13Apr2025 02:48:00.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ahi te quedan 3 de carne
+[13Apr2025 02:48:02.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> va
+[13Apr2025 02:48:15.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=98, y=-26, z=-250}
+[13Apr2025 02:48:38.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=296, y=-42, z=-266}
+[13Apr2025 02:48:41.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> hoy si va bien el sv ve xD
+[13Apr2025 02:48:52.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> por cierto ene stas montañas hay monton de lucky creo
+[13Apr2025 02:48:55.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> cy we
+[13Apr2025 02:49:03.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> vamo aver pos
+[13Apr2025 02:49:07.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=448, y=-35, z=55}
+[13Apr2025 02:49:08.651] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=450, y=-21, z=-53}
+[13Apr2025 02:49:09.030] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=452, y=29, z=114}
+[13Apr2025 02:49:13.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> aqui donde ando hay
+[13Apr2025 02:49:35.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> algunos aparecen asi como portales destruidos xd
+[13Apr2025 02:49:37.841] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=poppy,NBTTag=(display=(Name=#jsonStr(text="Romantic Rose",color=dark_red)))@luck=-1
+[13Apr2025 02:49:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ya ves xD
+[13Apr2025 02:49:58.530] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=419, y=-34, z=160}
+[13Apr2025 02:50:10.282] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=end_portal_frame,amount=#rand(2,6)@luck=2
+[13Apr2025 02:50:10.473] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=421, y=-19, z=218}
+[13Apr2025 02:50:11.273] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=498, y=19, z=-190}
+[13Apr2025 02:50:11.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Monster Hunter]
+[13Apr2025 02:50:29.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> es jaker
+[13Apr2025 02:50:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> cuantos te diio?
+[13Apr2025 02:50:41.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Monster Hunter]
+[13Apr2025 02:50:47.230] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=524, y=-9, z=186}
+[13Apr2025 02:50:47.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=512, y=-44, z=-44}
+[13Apr2025 02:50:50.194] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=396, y=-3, z=224}
+[13Apr2025 02:50:54.238] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=531, y=3, z=-118}
+[13Apr2025 02:50:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> aqui hay mas
+[13Apr2025 02:50:59.489] [Worker-Main-20/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[13Apr2025 02:50:59.512] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[13Apr2025 02:50:59.660] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[13Apr2025 02:50:59.660] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[13Apr2025 02:51:01.146] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=544, y=-45, z=-56}
+[13Apr2025 02:51:07.648] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[13Apr2025 02:51:07.648] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[13Apr2025 02:51:07.649] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[13Apr2025 02:51:07.757] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[13Apr2025 02:51:12.257] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=rabbit_stew,amount=#rand(5,7)@luck=1
+[13Apr2025 02:51:16.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> ese lo quiero yo
+[13Apr2025 02:51:21.073] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=175, y=-24, z=269}
+[13Apr2025 02:51:21.577] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=359, y=17, z=265}
+[13Apr2025 02:51:24.683] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=rotten_flesh@luck=-1
+[13Apr2025 02:51:39.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> vos ya rompiste dos xD
+[13Apr2025 02:51:44.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> aqui hay mas
+[13Apr2025 02:52:14.572] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=622, y=12, z=-40}
+[13Apr2025 02:52:16.336] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=522, y=21, z=-196}
+[13Apr2025 02:52:19.991] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[13Apr2025 02:52:32.021] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=566, y=-7, z=-209}
+[13Apr2025 02:52:33.608] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(type=entity,ID=slime,NBTTag=(Size=10);type=entity,ID=magma_cube,NBTTag=(Size=10))@luck=-2
+[13Apr2025 02:52:34.630] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=650, y=-49, z=-118}
+[13Apr2025 02:52:34.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=654, y=-45, z=-60}
+[13Apr2025 02:52:47.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was slain by Magma Cube
+[13Apr2025 02:53:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Diamonds!]
+[13Apr2025 02:54:03.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [First Steps]
+[13Apr2025 02:54:03.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [So Crafty]
+[13Apr2025 02:54:20.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> ENCONTRE UNA NUBE
+[13Apr2025 02:54:28.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> aparecen blazes tene cuidado
+[13Apr2025 02:54:33.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 fell from a high place
+[13Apr2025 02:54:36.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> son como guardiane
+[13Apr2025 02:54:38.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> xd
+[13Apr2025 02:55:31.583] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=ender_pearl,amount=#rand(1,3);ID=blaze_rod,amount=#rand(1,3);ID=ghast_tear,amount=#rand(1,3);ID=gold_nugget,amount=#rand(1,3);ID=nether_wart,amount=#rand(1,3);ID=spider_eye,amount=#rand(1,3);ID=fermented_spider_eye,amount=#rand(1,3);ID=blaze_powder,amount=#rand(1,3);ID=magma_cream,amount=#rand(1,3);ID=ender_eye,amount=#rand(1,3);ID=glistering_melon_slice,amount=#rand(1,3);ID=rabbit_foot,amount=#rand(1,3);type=particle,ID=splashpotion,potion="fire_resistance")@luck=2
+[13Apr2025 02:55:31.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> HAY UN FENIX
+[13Apr2025 02:55:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Into Fire]
+[13Apr2025 02:55:39.293] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=iron_horse_armor;ID=golden_horse_armor;ID=diamond_horse_armor)@luck=2
