@@ -13059,3 +13059,111 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [13Apr2025 04:47:27.337] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/tiviacz/travelersbackpack/inventory/upgrades/crafting/CraftingContainerImprovedNew (target of net/minecraft/world/Container)
 [13Apr2025 04:47:27.338] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/tiviacz/travelersbackpack/inventory/upgrades/crafting/CraftingUpgrade$1 (target of net/minecraft/world/inventory/Slot)
 [13Apr2025 04:47:27.338] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/tiviacz/travelersbackpack/inventory/upgrades/crafting/CraftingUpgrade$2 (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:47:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> no me acordaba que ahora estos de una se pode en las ranuras de la mochila xD
+[13Apr2025 04:47:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> a la derecha
+[13Apr2025 04:47:55.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> por donde hay una cubeta igual
+[13Apr2025 04:47:59.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 04:47:59.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 04:48:06.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> cy xD
+[13Apr2025 04:48:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> TENGO UN GRAN SUEÑO YA WE
+[13Apr2025 04:49:04.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> x2 perate
+[13Apr2025 04:49:06.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> solo hago esto
+[13Apr2025 04:49:12.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> VA
+[13Apr2025 04:49:23.488] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming ironfurnaces/container/slots/SlotIronFurnaceInput (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:49:23.488] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming ironfurnaces/container/slots/SlotIronFurnaceFuel (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:49:23.489] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming ironfurnaces/container/slots/SlotIronFurnace (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:49:23.490] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming ironfurnaces/container/slots/SlotIronFurnaceAugmentRed (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:49:23.490] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming ironfurnaces/container/slots/SlotIronFurnaceAugmentGreen (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:49:23.490] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming ironfurnaces/container/slots/SlotIronFurnaceAugmentBlue (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:49:23.491] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming ironfurnaces/container/slots/SlotIronFurnaceInputGenerator (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:49:23.492] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming ironfurnaces/container/slots/SlotIronFurnaceInputFactory (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:49:23.492] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming ironfurnaces/container/slots/SlotIronFurnaceOutputFactory (target of net/minecraft/world/inventory/Slot)
+[13Apr2025 04:49:28.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> WE
+[13Apr2025 04:49:31.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ke
+[13Apr2025 04:49:32.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> TOMA
+[13Apr2025 04:49:44.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> mañana farmeamos diamante
+[13Apr2025 04:49:53.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> esto es mui poko
+[13Apr2025 04:49:54.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> hace las mejoras
+[13Apr2025 04:50:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> a
+[13Apr2025 04:50:14.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> no alcanza xd
+[13Apr2025 04:50:23.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> cierto xd
+[13Apr2025 04:50:32.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> quejesto
+[13Apr2025 04:50:33.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> mañana seguimos si podes
+[13Apr2025 04:50:36.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> el ke
+[13Apr2025 04:50:47.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> pa q se cocine mas rapido xd
+[13Apr2025 04:50:52.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> xd
+[13Apr2025 04:50:58.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> luego va diamante, luego cristal, obsidiana, netherita
+[13Apr2025 04:51:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> ta bien
+[13Apr2025 04:51:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> y el mas potente es el rainbow
+[13Apr2025 04:51:13.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> te cocina un stack en 1 segundo xd
+[13Apr2025 04:51:20.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> azu
+[13Apr2025 04:51:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> weno we
+[13Apr2025 04:51:29.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> apaga el sv tons
+[13Apr2025 04:51:39.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> y le das en realizar backup
+[13Apr2025 04:51:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> en S
+[13Apr2025 04:51:48.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> va
+[13Apr2025 04:51:49.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> okai?
+[13Apr2025 04:51:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> jalu
+[13Apr2025 04:51:57.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> yjalu
+[13Apr2025 04:52:00.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xSamSLV_ lost connection: Disconnected
+[13Apr2025 04:52:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ left the game
+[13Apr2025 04:52:01.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jony_SV503 lost connection: Disconnected
+[13Apr2025 04:52:01.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 left the game
+[13Apr2025 04:52:46.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Apr2025 04:52:46.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[13Apr2025 04:52:59.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 04:52:59.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 04:53:02.612] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[13Apr2025 04:53:02.613] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[13Apr2025 04:53:02.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Apr2025 04:53:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Apr2025 04:53:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Apr2025 04:53:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Apr2025 04:53:04.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[13Apr2025 04:53:04.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Apr2025 04:53:04.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Apr2025 04:53:04.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Apr2025 04:53:04.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 04:53:04.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 04:53:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Apr2025 04:53:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[13Apr2025 04:53:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Apr2025 04:53:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Apr2025 04:53:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Apr2025 04:53:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Apr2025 04:53:05.158] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Apr2025 04:53:05.158] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/pruebamcxd/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23288!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23376!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23371!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23371!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13Apr2025 04:53:05.160] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Apr2025 04:53:05.162] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Apr2025 04:53:05.162] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[13Apr2025 04:53:05.166] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

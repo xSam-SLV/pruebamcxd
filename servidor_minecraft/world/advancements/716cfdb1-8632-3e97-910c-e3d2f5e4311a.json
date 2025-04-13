@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-13 04:11:16 +0000"
@@ -490,6 +496,12 @@
       "has_glass": "2025-04-13 04:11:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
@@ -1105,6 +1117,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-04-13 03:31:14 +0000"
@@ -1669,6 +1687,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-13 04:13:25 +0000"
@@ -2083,6 +2107,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-13 04:00:15 +0000"
@@ -2124,6 +2154,12 @@
       "has_glass": "2025-04-13 04:11:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/kitchen_stovetop": {
     "criteria": {
@@ -2599,6 +2635,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-13 04:11:16 +0000"
@@ -2874,6 +2916,12 @@
       "has_gold_nugget": "2025-04-13 04:00:34 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
@@ -3239,6 +3287,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-04-13 03:42:40 +0000"
@@ -3346,6 +3400,12 @@
       "in_water": "2025-04-13 03:53:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
@@ -3466,6 +3526,12 @@
       "has_planks": "2025-04-13 02:43:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
@@ -3658,6 +3724,12 @@
       "has_iron": "2025-04-13 03:31:14 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:52:00 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
