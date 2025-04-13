@@ -12868,3 +12868,112 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [13Apr2025 04:16:26.027] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=cake@luck=0
 [13Apr2025 04:16:36.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> es bueno que apretes F3 + B
 [13Apr2025 04:16:43.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> para ver la hitbox del draco y darle mejor
+[13Apr2025 04:17:01.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13Apr2025 04:17:10.753] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[13Apr2025 04:17:18.199] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=obsidian,amount=14@luck=1
+[13Apr2025 04:17:18.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ has made the advancement [Ice Bucket Challenge]
+[13Apr2025 04:17:20.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 04:17:20.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 04:17:21.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4288ms or 85 ticks behind
+[13Apr2025 04:17:32.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> pa onde te fuiste we xd
+[13Apr2025 04:17:40.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4345ms or 86 ticks behind
+[13Apr2025 04:17:42.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> ayudaaaa
+[13Apr2025 04:17:47.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> q fue
+[13Apr2025 04:17:55.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Teleported xSamSLV_ to Jony_SV503]
+[13Apr2025 04:17:58.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3207ms or 64 ticks behind
+[13Apr2025 04:17:59.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 was incinerated by Fire Dragon
+[13Apr2025 04:18:02.394] [Server thread/DEBUG] [twilightforest/]: Player Jony_SV503 (716cfdb1-8632-3e97-910c-e3d2f5e4311a) respawned and received items held in storage
+[13Apr2025 04:18:02.496] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744517882474
+[13Apr2025 04:18:07.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> lootea su nidoooo
+[13Apr2025 04:18:19.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was turned into KFC by Fire Dragon
+[13Apr2025 04:18:21.378] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
+[13Apr2025 04:18:21.416] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744517901405
+[13Apr2025 04:18:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> xd
+[13Apr2025 04:18:23.387] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2023, y=29, z=1786}
+[13Apr2025 04:18:33.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ya lo lotee solo el oro quedó
+[13Apr2025 04:18:55.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Teleported xSamSLV_ to Jony_SV503]
+[13Apr2025 04:18:56.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13Apr2025 04:19:04.452] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2337, y=-27, z=1368}
+[13Apr2025 04:19:04.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2348, y=25, z=1593}
+[13Apr2025 04:19:24.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> we te podes hacer tp a tu tumba si queres
+[13Apr2025 04:19:33.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> me haces tp rapido
+[13Apr2025 04:19:39.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> solo le das a la J para ver el mapa y sobre el punto de tu muerte click izquierod
+[13Apr2025 04:19:46.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Teleported Jony_SV503 to xSamSLV_]
+[13Apr2025 04:19:50.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ahi estaba'?
+[13Apr2025 04:19:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> decia por el dragón
+[13Apr2025 04:19:58.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> taba cerca
+[13Apr2025 04:20:17.880] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2267, y=32, z=1732}
+[13Apr2025 04:20:23.030] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2219, y=-46, z=1770}
+[13Apr2025 04:20:25.882] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2249, y=-41, z=1789}
+[13Apr2025 04:20:29.837] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1863, y=-34, z=1801}
+[13Apr2025 04:20:29.843] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1956, y=-45, z=1803}
+[13Apr2025 04:20:34.607] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2054, y=32, z=1814}
+[13Apr2025 04:20:34.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2134, y=-33, z=1818}
+[13Apr2025 04:20:34.939] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1939, y=46, z=1812}
+[13Apr2025 04:20:49.384] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2119, y=-46, z=1833}
+[13Apr2025 04:20:49.604] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2010, y=12, z=1837}
+[13Apr2025 04:20:58.980] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2238, y=13, z=1825}
+[13Apr2025 04:20:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was turned into KFC by Fire Dragon
+[13Apr2025 04:21:01.526] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
+[13Apr2025 04:21:01.598] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518061596
+[13Apr2025 04:21:36.095] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2253, y=-13, z=1804}
+[13Apr2025 04:21:45.011] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2145, y=-48, z=1846}
+[13Apr2025 04:21:57.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13Apr2025 04:22:01.153] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2346, y=27, z=1793}
+[13Apr2025 04:22:16.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4531ms or 90 ticks behind
+[13Apr2025 04:22:30.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was slain by Fire Dragon
+[13Apr2025 04:22:32.473] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
+[13Apr2025 04:22:32.587] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518152560
+[13Apr2025 04:22:33.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[13Apr2025 04:22:38.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 04:22:39.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 04:22:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Creative Mode]
+[13Apr2025 04:22:47.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Spectator Mode]
+[13Apr2025 04:22:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Creative Mode]
+[13Apr2025 04:22:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Spectator Mode]
+[13Apr2025 04:22:52.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Set own game mode to Survival Mode]
+[13Apr2025 04:23:05.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Apr2025 04:23:25.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5070ms or 101 ticks behind
+[13Apr2025 04:23:26.441] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2377, y=-36, z=1573}
+[13Apr2025 04:23:35.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> we hay un cylcops
+[13Apr2025 04:23:43.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> cyclops
+[13Apr2025 04:23:47.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6790ms or 135 ticks behind
+[13Apr2025 04:23:52.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> MATEMOLO
+[13Apr2025 04:23:56.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Teleported Jony_SV503 to xSamSLV_]
+[13Apr2025 04:24:03.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was slain by Cyclops
+[13Apr2025 04:24:05.066] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
+[13Apr2025 04:24:05.171] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518245161
+[13Apr2025 04:24:05.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 was slain by Cyclops
+[13Apr2025 04:24:05.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jony_SV503 moved wrongly!
+[13Apr2025 04:24:07.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
+[13Apr2025 04:24:08.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> xd
+[13Apr2025 04:24:10.654] [Server thread/DEBUG] [twilightforest/]: Player Jony_SV503 (716cfdb1-8632-3e97-910c-e3d2f5e4311a) respawned and received items held in storage
+[13Apr2025 04:24:10.746] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518250729
+[13Apr2025 04:24:11.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> te agarra y te mata
+[13Apr2025 04:24:15.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ahi le das a la F
+[13Apr2025 04:24:20.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> CON ARCO Y CORRIENDO
+[13Apr2025 04:24:23.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> era matarlo o que nos matara?
+[13Apr2025 04:24:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 was slain by Cyclops
+[13Apr2025 04:24:39.439] [Server thread/DEBUG] [twilightforest/]: Player Jony_SV503 (716cfdb1-8632-3e97-910c-e3d2f5e4311a) respawned and received items held in storage
+[13Apr2025 04:24:39.544] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518279525
+[13Apr2025 04:24:48.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jony_SV503: Set own game mode to Creative Mode]
+[13Apr2025 04:25:08.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Ice Bucket Challenge]
+[13Apr2025 04:25:08.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 has made the advancement [Amateur Archaeologist]
+[13Apr2025 04:25:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> we
+[13Apr2025 04:25:12.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> mi loot
+[13Apr2025 04:25:16.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jony_SV503: Set own game mode to Survival Mode]
+[13Apr2025 04:25:32.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> ese era xd
+[13Apr2025 04:25:36.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> CREO QUE TENGO TU LOOK
+[13Apr2025 04:25:40.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> no me digas
+[13Apr2025 04:25:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jony_SV503 was killed
+[13Apr2025 04:25:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Killed Jony_SV503]
+[13Apr2025 04:25:48.355] [Server thread/DEBUG] [twilightforest/]: Player Jony_SV503 (716cfdb1-8632-3e97-910c-e3d2f5e4311a) respawned and received items held in storage
+[13Apr2025 04:25:48.447] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518348446
+[13Apr2025 04:25:50.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was killed
+[13Apr2025 04:25:50.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xSamSLV_: Killed xSamSLV_]
+[13Apr2025 04:25:51.559] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
+[13Apr2025 04:25:51.684] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518351635
+[13Apr2025 04:25:54.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> sorry xd
+[13Apr2025 04:26:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xSamSLV_ was slain by Cyclops
+[13Apr2025 04:26:48.015] [Server thread/DEBUG] [twilightforest/]: Player xSamSLV_ (cc20712f-03ac-37d2-9cff-4a6ac91c6fca) respawned and received items held in storage
+[13Apr2025 04:26:48.150] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744518408111
