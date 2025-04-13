@@ -2803,6 +2803,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-04-13 04:36:38 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/lime_arm_chair": {
     "criteria": {
       "has_wool": "2025-04-13 02:43:47 +0000"

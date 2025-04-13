@@ -2017,3 +2017,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [13Apr2025 04:36:44.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> necesitamos mas cuero
 [13Apr2025 04:36:52.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> cuero directamente o carne podrida pa cocinar
 [13Apr2025 04:36:56.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> vamo a farmiar
+[13Apr2025 04:38:08.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> primero la de hierro
+[13Apr2025 04:38:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> luego oro
+[13Apr2025 04:38:13.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> pero por cada mejora 1 cuero
+[13Apr2025 04:38:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> SOLO TENFO UNO DE CUERO
+[13Apr2025 04:38:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> yo solo alcance para hierro
+[13Apr2025 04:38:49.849] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=villager,NBTTag=(VillagerData=(level=3,profession=weaponsmith,type=jungle),Offers=(Recipes=[(buy=(id=diamond,Count=#rand(20,25)),sell=(id=diamond_sword,Count=1,tag=(Enchantments=#luckySwordEnchantments,display=(Name=#jsonStr(text="Hero's Sword",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(20,25)),sell=(id=bow,Count=1,tag=(Enchantments=#luckyBowEnchantments,display=(Name=#jsonStr(text="Hero's Bow",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(10,15)),sell=(id=fishing_rod,Count=1,tag=(Enchantments=#luckyFishingRodEnchantments,display=(Name=#jsonStr(text="Hero's Fishing Rod",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(10,15)),sell=(id=potion,Count=1,tag=(Potion="fire_resistance",CustomPotionEffects=#luckyPotionEffects,display=(Name=#jsonStr(text="Hero's Potion",color=blue,bold=true)))),maxUses=1),(buy=(id=diamond,Count=#rand(7,12)),sell=(id=splash_potion,Count=1,tag=(Potion="harming",CustomPotionEffects=#unluckyPotionEffects,display=(Name=#jsonStr(text="Evil Potion",color=blue,bold=true)))),maxUses=1)]),CustomName=#jsonStr(text="Hero Villager",color=blue,bold=true),CustomNameVisible=true)@luck=1
+[13Apr2025 04:39:35.011] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1691, y=-14, z=1440}
+[13Apr2025 04:40:38.974] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1605, y=33, z=1280}
+[13Apr2025 04:40:39.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1615, y=7, z=1278}
+[13Apr2025 04:40:41.225] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1623, y=24, z=1437}
+[13Apr2025 04:40:42.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Apr2025 04:40:42.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 04:40:42.581] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1628, y=3, z=1443}
+[13Apr2025 04:40:45.130] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 04:41:15.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> queda uno de cuero en el horno
+[13Apr2025 04:41:30.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> para andar mochila de crafteo en la mochi si es de mas cuero xD
+[13Apr2025 04:45:39.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> WE AKI HAY 14 DE CUERO Xd
+[13Apr2025 04:45:45.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> a xd
+[13Apr2025 04:45:59.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> jeña
+[13Apr2025 04:46:37.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> TENES 4 DE HILO DE SOBRA??
+[13Apr2025 04:46:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xSamSLV_> solo 1
+[13Apr2025 04:46:55.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jony_SV503> grajiah

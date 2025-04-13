@@ -1745,6 +1745,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-13 04:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-13 04:12:31 +0000"
@@ -2525,6 +2531,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-13 04:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 03:41:19 +0000"
@@ -2678,6 +2690,12 @@
   "framedblocks:recipes/building_blocks/framed_torch": {
     "criteria": {
       "hasFramedCube": "2025-04-13 03:49:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-13 04:37:20 +0000"
     },
     "done": true
   },
@@ -2942,6 +2960,12 @@
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-04-13 03:24:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-13 04:37:20 +0000"
     },
     "done": true
   },
@@ -3803,6 +3827,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-04-13 04:36:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/lime_arm_chair": {
     "criteria": {
       "has_wool": "2025-04-13 03:46:40 +0000"
@@ -4163,6 +4193,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-13 04:37:20 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/tools/framed_screwdriver": {
     "criteria": {
       "hasFramedCube": "2025-04-13 03:49:56 +0000"
@@ -4412,6 +4448,12 @@
   "framedblocks:recipes/building_blocks/framed_fancy_detector_rail": {
     "criteria": {
       "hasFramedCube": "2025-04-13 03:49:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-13 04:37:20 +0000"
     },
     "done": true
   },
@@ -5054,6 +5096,12 @@
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2025-04-13 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-13 04:37:20 +0000"
     },
     "done": true
   },
