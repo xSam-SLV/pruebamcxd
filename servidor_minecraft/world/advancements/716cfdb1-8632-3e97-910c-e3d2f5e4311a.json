@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-13 03:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-13 02:54:05 +0000"
@@ -172,6 +184,12 @@
       "has_wool": "2025-04-13 02:43:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
   },
   "butcher:firstjoinmessage": {
     "criteria": {
@@ -413,6 +431,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-13 02:49:31 +0000"
@@ -556,6 +580,12 @@
       "has_gold_ingot": "2025-04-13 02:54:05 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
@@ -743,6 +773,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-13 02:47:17 +0000"
@@ -760,6 +796,12 @@
       "has_diamonds": "2025-04-13 02:53:57 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -941,6 +983,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-13 02:44:06 +0000"
@@ -1025,9 +1073,21 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-04-13 02:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-13 03:11:13 +0000"
     },
     "done": true
   },
@@ -1120,6 +1180,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-04-13 02:55:54 +0000"
@@ -1143,6 +1209,12 @@
       "consumed_item": "2025-04-13 02:48:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
@@ -1191,6 +1263,12 @@
       "has_planks": "2025-04-13 02:43:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
@@ -1258,6 +1336,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:12:12 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/black_simple_sofa": {
     "criteria": {
       "has_wool": "2025-04-13 02:43:47 +0000"
@@ -1273,6 +1357,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-13 02:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-13 03:11:13 +0000"
     },
     "done": true
   },

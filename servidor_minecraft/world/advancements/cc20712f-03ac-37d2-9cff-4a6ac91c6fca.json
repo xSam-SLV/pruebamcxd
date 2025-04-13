@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-04-13 02:47:16 +0000"
@@ -148,6 +154,12 @@
       "blaze_rod": "2025-04-13 02:55:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
   },
   "butcher:firstjoinmessage": {
     "criteria": {
@@ -342,6 +354,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-04-13 02:47:16 +0000"
@@ -455,6 +473,12 @@
       "has_gold_ingot": "2025-04-13 02:37:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
   },
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
@@ -588,11 +612,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-13 02:44:20 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
@@ -702,6 +738,18 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-04-13 03:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-04-13 02:44:20 +0000"
@@ -743,6 +791,12 @@
       "has_gold_nugget": "2025-04-13 02:55:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
@@ -818,8 +872,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "snowblossom_grove": "2025-04-13 03:05:16 +0000",
       "jade_cliffs": "2025-04-13 02:45:26 +0000",
       "mystic_grove": "2025-04-13 02:43:32 +0000",
+      "maple_woods": "2025-04-13 03:02:35 +0000",
       "field": "2025-04-13 02:46:53 +0000",
       "moor": "2025-04-13 02:37:13 +0000",
       "overgrown_greens": "2025-04-13 02:33:20 +0000",
@@ -881,6 +937,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/magic_button": {
     "criteria": {
       "has_planks": "2025-04-13 02:43:50 +0000"
@@ -923,6 +985,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-04-13 02:33:18 +0000"
@@ -958,6 +1026,12 @@
       "has_log": "2025-04-13 02:47:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
@@ -1000,6 +1074,12 @@
       "has_stick": "2025-04-13 02:43:44 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 03:04:54 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -1156,6 +1236,12 @@
       "minecraft:spider": "2025-04-13 02:50:11 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-04-13 03:03:29 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
